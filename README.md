@@ -1,2 +1,2 @@
 # androiddev
-This is my first android development project
+This is my first android development project.
